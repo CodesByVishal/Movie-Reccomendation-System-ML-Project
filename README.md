@@ -1,7 +1,8 @@
 # Netflix Movies And TV Shows Clustering : ML PROJECT
 
 ---
-![Uploading 322281866-fb99b13e-9563-4a11-af48-234fcc8ba040.jpg…]()
+![322281866-fb99b13e-9563-4a11-af48-234fcc8ba040](https://github.com/CodesByVishal/Movie-Reccomendation-System-ML-Project/assets/163639829/55b3d88e-70d3-4005-8dbf-dc7c7f0d54f6)
+
 
 
 ## Abstract
