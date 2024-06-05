@@ -1,4 +1,4 @@
-# Netflix Movies And TV Shows Reccomendation : ML PROJECT
+# Netflix Movies And TV Shows Recommendation : ML PROJECT
 
 ---
 ![322281866-fb99b13e-9563-4a11-af48-234fcc8ba040](https://github.com/CodesByVishal/Movie-Reccomendation-System-ML-Project/assets/163639829/55b3d88e-70d3-4005-8dbf-dc7c7f0d54f6)
