@@ -26,6 +26,7 @@ The objective of this project is to explore recommender systems, specifically fo
 ## Data Description
 
 The dataset comprises 7787 rows and 12 columns, including information such as show ID, type (TV show or movie), title, director, cast, country, date added, release year, rating, duration, listed genre, and description. This diverse dataset serves as the foundation for analyzing Netflix content and building a robust recommendation model.
+Dataset link: https://drive.google.com/drive/folders/1hw0xjmQyhNPvl9yMXjT2x8knWETOMkT6?usp=sharing
 
 ---
 
