@@ -1,6 +1,6 @@
 # Netflix Movies And TV Shows Recommendation : ML PROJECT
 
----
+----
 ![322281866-fb99b13e-9563-4a11-af48-234fcc8ba040](https://github.com/CodesByVishal/Movie-Reccomendation-System-ML-Project/assets/163639829/55b3d88e-70d3-4005-8dbf-dc7c7f0d54f6)
 
 
@@ -9,7 +9,7 @@
 
 Netflix, a corporation offering a vast library of TV series and films for online viewing, operates on a subscription model. Retaining customers and keeping them engaged is crucial for its profitability. Recommendation systems play a pivotal role in achieving this goal by providing personalized suggestions to users.
 
----
+----
 
 ## Introduction
 
